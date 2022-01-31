@@ -1,0 +1,32 @@
+{
+  "adminOnly": false,
+  "adminBot": [
+    "100045197073985"
+  ],
+  "nickNameBot": "Emilia-tan",
+  "prefix": "/",
+  "database": {
+    "type": "local",
+    "uriMongodb": "",
+    "notes": "type chọn *local* hoặc *mongodb*, nếu chọn mongodb thì điền uri connect mongodb vào phần uriMongodb, còn local sẽ lưu file json tại thư mục database"
+  },
+  "SERVER_UPTIME": true,
+  "autoRefreshFbstate": true,
+  "autoUpdateScript": false,
+  "restartListenMqtt": 3600000,
+  "logEvents": {
+    "eventAndMessage": true,
+    "read_receipt": false,
+    "typ": false,
+    "presence": false
+  },
+  "logsbot": true,
+  "OptionsApi": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "updatePresence": true,
+    "listenTyping": true,
+    "logLevel": "error",
+    "selfListen": false
+  }
+}

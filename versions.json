@@ -1,0 +1,350 @@
+[
+  {
+    "version": "1.0.1",
+    "info": {
+      "scripts/cmds/banner.js": "fix error when call api",
+      "scripts/cmds/banner2.js": "fix error when call api",
+      "scripts/cmds/bannerbw.js": "fix error when call api",
+      "scripts/cmds/cmd.js": "synchronized envGlobal & envConfig when load scripts",
+      "scripts/cmds/adminonly.js": "new script command",
+      "bot/loadAllScript.js": "synchronized envGlobal & envConfig when load scripts",
+      "index.js": "Fix error can't use adminOnly"
+    }
+  },
+  {
+    "version": "1.0.2",
+    "info": {
+      "scripts/cmds/user.js": "fix error",
+      "scripts/cmds/adduser.js": "Additional features",
+      "bot/handler/handlerEvents.js": "no description",
+      "package.json": "remove unnecessary libraries"
+    }
+  },
+  {
+    "version": "1.0.3",
+    "info": {
+      "update.js": "new features (update with command)",
+      "versions.json": "new features (update with command)"
+    }
+  },
+  {
+    "version": "1.0.4",
+    "info": {
+      "scripts/events/leave.js": "update default mod: on",
+      "scripts/events/welcome.js": "update default mod: on",
+      "scripts/events/logsbot.js": "no description",
+      "scripts/cmds/leavemsg.js": "new script command (on/off send a message when a member leaves the group chat",
+      "scripts/cmds/logsbot.js": "new script command (on/off logsbot event)",
+      "index.js": "edit text check update"
+    }
+  },
+  {
+    "version": "1.0.5",
+    "info": {
+      "config.json": "no description",
+      "scripts/cmds/unsend.js": "new script unsend message bot"
+    },
+    "notes": "this is version fix can't use bot"
+  },
+  {
+    "version": "1.0.6",
+    "info": {
+      "config.json": "no description"
+    }
+  },
+  {
+    "version": "1.0.7",
+    "info": {
+      "index.js": "move text check version",
+      "config.json": "logEvents default true",
+      "update.js": "no description"
+    }
+  },
+  {
+    "version": "1.0.8",
+    "info": {
+      "scripts/cmds/callad.js": "edit role 1 => 0"
+    }
+  },
+  {
+    "version": "1.0.9",
+    "info": {
+      "scripts/cmds/batslap.js": "fix error api",
+      "scripts/cmds/backupmongo.js": "fix error",
+      "bot/handler/handlerEvents.js": "fix error"
+    }
+  },
+  {
+    "version": "1.0.10",
+    "info": {
+      "scripts/events/autoUpdateInfoThread.js": "rename slpice => splice (line 43) :v"
+    }
+  },
+  {
+    "version": "1.1.0",
+    "info": {
+      "bot/handler/handlerEvents.js": "add features on/off only admin thread use bot",
+      "scripts/cmds/onlyadminbox.js": "new script command",
+      "scripts/cmds/notification.js": "new script command send notification to all box"
+    }
+  },
+  {
+    "version": "1.1.1",
+    "info": {
+      "scripts/cmds/notification.js": "fix error when send multimedia & auto move mediaFile after send",
+      "scripts/cmds/setbox.js": "new script command",
+      "index.js": "no description"
+    }
+  },
+  {
+    "version": "1.1.2",
+    "info": {
+      "package.json": "added package canvas",
+      "scripts/cmds/prefix.js": "edit role 2 => 0"
+    }
+  },
+  {
+    "version": "1.1.3",
+    "info": {
+      "scripts/cmds/thread.js": "fix error"
+    }
+  },
+  {
+    "version": "1.1.4",
+    "info": {
+      "database/dataProcessing/handlerData.js": "auto write file threadsData.json & usersData.json if does not exist"
+    }
+  },
+  {
+    "version": "1.1.5",
+    "info": {
+      "index.js": "Short command name feature update",
+      "bot/loadAllScript.js": "Short command name feature update",
+      "bot/handler/handlerEvents.js": "Short command name feature update",
+      "scripts/cmds/help.js": "Short command name feature update"
+    }
+  },
+  {
+    "version": "1.1.6",
+    "info": {
+      "scripts/cmds/cmd.js": "Short command name feature update",
+      "scripts/cmds/help.js": "fix error",
+      "scripts/cmds/qrcode.js": "new script command"
+    }
+  },
+  {
+    "version": "1.1.7",
+    "info": {
+      "scripts/cmds/batslap.js": "fix invalid apikey"
+    }
+  },
+  {
+    "version": "1.1.8",
+    "info": {
+      "scripts/cmds/jail.js": "fix invalid apikey"
+    }
+  },
+  {
+    "version": "1.1.9",
+    "info": {
+      "scripts/cmds/rank.js": "no description"
+    }
+  },
+  {
+    "version": "1.1.10",
+    "info": {
+      "update.js": "added feature to delete redundant files"
+    }
+  },
+  {
+    "version": "1.1.11",
+    "info": {
+      "bot/handler/handlerCreateDB.js": "check id != 0",
+      "bot/handler/handlerEvents.js": "check has database"
+    }
+  },
+  {
+    "version": "1.1.12",
+    "info": {
+      "bot/handler/handlerEvents.js": "fix error"
+    }
+  },
+  {
+    "version": "1.1.13",
+    "info": {
+      "index.js": "added listenMqtt restart feature",
+      "config.json": "added listenMqtt restart feature",
+      "bot/login.js": "added listenMqtt restart feature"
+    }
+  },
+  {
+    "version": "1.1.14",
+    "info": {
+      "scripts/cmds/cmd.js": ""
+    }
+  },
+  {
+    "version": "1.1.15",
+    "info": {
+      "scripts/cmds/avatar.js": "fix api error"
+    }
+  },
+  {
+    "version": "1.1.16",
+    "info": {
+      "scripts/cmds/notification.js": "fix error 408"
+    }
+  },
+  {
+    "version": "1.1.17",
+    "info": {
+      "scripts/cmds/rules.js": "fix lỗi remove"
+    }
+  },
+  {
+    "version": "1.1.18",
+    "info": {
+      "scripts/cmds/count.js": "thêm thứ tự số hạng"
+    }
+  },
+  {
+    "version": "1.1.19",
+    "info": {
+      "scripts/cmds/thread.js": "fix lỗi band không tác dụng"
+    }
+  },
+  {
+    "version": "1.1.20",
+    "info": {
+      "database/dataProcessing/handlerData.js": "thêm giới tính vào dữ liệu members của nhóm",
+      "scripts/cmds/pairing.js": "lệnh mới - ghép đôi ngẫu nhiên với một người trong nhóm chat",
+      "scripts/cmds/refresh.js": "lệnh mới - cập nhật dữ liệu",
+      "scripts/cmds/user.js": "fix lỗi tìm kiếm người dùng",
+      "scripts/cmds/thread.js": "fix lỗi tìm kiếm nhóm"
+    }
+  },
+  {
+    "version": "1.1.21",
+    "info": {
+      "scripts/cmds/unsend.js": ""
+    }
+  },
+  {
+    "version": "1.1.22",
+    "info": {
+      "scripts/cmds/avatar.js": ""
+    }
+  },
+  {
+    "version": "1.1.23",
+    "info": {
+      "scripts/cmds/avatar.js": "hiển thị lỗi khi tải thất bại"
+    }
+  },
+  {
+    "version": "1.1.24",
+    "info": {
+      "bot/handler/handlerEvents.js": "",
+      "scripts/cmds/thread.js": "fix lỗi ban thread & unban",
+      "scripts/cmds/bannedlist.js": "lệnh mới - xem danh sách nhóm/người dùng bị cấm"
+    }
+  },
+  {
+    "version": "1.1.25",
+    "info": {
+      "scripts/cmds/thread.js": "tối ưu hoá code",
+      "scripts/cmds/user.js": "tối ưu hoá code",
+      "scripts/cmds/bannedlist.js": "tối ưu hoá code"
+    }
+  },
+  {
+    "version": "1.2.0",
+    "info": {
+      "database/dataProcessing/handlerData.js": "add lastUpdate to data"
+    }
+  },
+  {
+    "version": "1.2.1",
+    "info": {
+      "scripts/cmds/rules.js": "tối ưu hoá code & fix bugs"
+    }
+  },
+  {
+    "version": "1.2.2",
+    "info": {
+      "scripts/cmds/avatar.js": "code optimization",
+      "scripts/cmds/banner.js": "code optimization",
+      "scripts/cmds/banner2.js": "code optimization",
+      "scripts/cmds/bannerbw.js": "code optimization"
+    }
+  },
+  {
+    "version": "1.2.3",
+    "info": {
+      "scripts/cmds/moon.js": "get image moon on date of birth",
+      "scripts/cmds/src/font/Kanit-SemiBoldItalic.ttf": "new font"
+    }
+  },
+  {
+    "version": "1.2.4",
+    "info": {
+      "scripts/cmds/moon.js": "fix bugs"
+    }
+  },
+  {
+    "version": "1.2.5",
+    "info": {
+      "scripts/events/logsbot.js": "automatically change the bot's nickname when entering a new box"
+    }
+  },
+  {
+    "version": "1.2.6",
+    "info": {
+      "scripts/cmds/adduser.js": "fix bugs"
+    }
+  },
+  {
+    "version": "1.2.7",
+    "info": {
+      "scripts/cmds/adduser.js": "change category \"info\" => \"box chat\"",
+      "scripts/cmds/backupmongo.js": "update",
+      "scripts/cmds/help.js": "simplify code",
+      "scripts/cmds/reload.js": "add guide to config",
+      "scripts/cmds/uptime.js": "change category \"system-bot\" => \"info\"",
+      "scripts/cmds/setbox.js": "fix bugs when set img"
+    }
+  },
+  {
+    "version": "1.2.8",
+    "info": {
+      "scripts/cmds/refresh.js": "fix bugs",
+      "database/dataProcessing/handlerData.js": "code optimization"
+    }
+  },
+  {
+    "version": "1.3.0",
+    "info": {
+      "bot/handler/handlerEvents.js": "fix args"
+    }
+  },
+  {
+    "version": "1.3.1",
+    "info": {
+      "scripts/cmds/count.js": "shorten message",
+      "scripts/cmds/setname.js": "new command set nickname for a group member",
+      "scripts/events/autoUpdateInfoThread.js": "fix bugs that lose user data when leaving the group"
+    }
+  },
+  {
+    "version": "1.3.2",
+    "info": {
+      "scripts/cmds/ytb.js": "fix bugs"
+    }
+  },
+  {
+    "version": "1.3.3",
+    "info": {
+      "scripts/cmds/rules.js": "add new features"
+    }
+  }
+]

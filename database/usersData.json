@@ -1,0 +1,221 @@
+{
+  "100045197073985": {
+    "id": "100045197073985",
+    "name": "Hiếu Gia",
+    "vanity": "GoogleOrangee",
+    "gender": 2,
+    "isFriend": true,
+    "money": 0,
+    "exp": 30,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632054401
+    },
+    "lastUpdate": 1643633003568
+  },
+  "100054857474455": {
+    "id": "100054857474455",
+    "name": "Tú",
+    "vanity": "",
+    "gender": 1,
+    "isFriend": true,
+    "money": 0,
+    "exp": 6,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632054645
+    },
+    "lastUpdate": 1643632762877
+  },
+  "100032895031372": {
+    "id": "100032895031372",
+    "name": "Dinh Tuan Hunq",
+    "vanity": "",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 9,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632089554
+    },
+    "lastUpdate": 1643633235468
+  },
+  "100044480983190": {
+    "id": "100044480983190",
+    "name": "Nguyễn Tiến Đạt",
+    "vanity": "datkhonggay",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 6,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632097959
+    },
+    "lastUpdate": 1643632366696
+  },
+  "100077282456612": {
+    "id": "100077282456612",
+    "name": "Người dùng Facebook",
+    "gender": 7,
+    "money": 0,
+    "exp": 0,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632129112
+    },
+    "lastUpdate": 1643632129112
+  },
+  "100077381063211": {
+    "id": "100077381063211",
+    "name": "Emilia Kanji",
+    "vanity": "",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 0,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632209241
+    },
+    "lastUpdate": 1643632209242
+  },
+  "100023260786590": {
+    "id": "100023260786590",
+    "name": "Nguyễn Khánh",
+    "vanity": "nguyenkhanh191206",
+    "gender": 2,
+    "isFriend": true,
+    "money": 0,
+    "exp": 23,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632221216
+    },
+    "lastUpdate": 1643632513066
+  },
+  "100076439106568": {
+    "id": "100076439106568",
+    "name": "Đỗ Đức Lộc",
+    "vanity": "",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 20,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632242587
+    },
+    "lastUpdate": 1643632642961
+  },
+  "100056639020548": {
+    "id": "100056639020548",
+    "name": "Thinh Nguyen",
+    "vanity": "thinh.nguyen1140",
+    "gender": 2,
+    "isFriend": true,
+    "money": 0,
+    "exp": 30,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632256178
+    },
+    "lastUpdate": 1643633195696
+  },
+  "100050296757478": {
+    "id": "100050296757478",
+    "name": "Huynh Đệ",
+    "vanity": "thien.rong.9277",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 0,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632625749
+    },
+    "lastUpdate": 1643632625749
+  },
+  "100025438278538": {
+    "id": "100025438278538",
+    "name": "Mai Phương Huyền",
+    "vanity": "maiphuonghuyen69",
+    "gender": 1,
+    "isFriend": false,
+    "money": 0,
+    "exp": 1,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643632641278
+    },
+    "lastUpdate": 1643632641280
+  },
+  "100074114529798": {
+    "id": "100074114529798",
+    "name": "Duy Vũ",
+    "vanity": "dyyydyyyne",
+    "gender": 2,
+    "isFriend": true,
+    "money": 0,
+    "exp": 8,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643633183454
+    },
+    "lastUpdate": 1643633236652
+  },
+  "100036482330212": {
+    "id": "100036482330212",
+    "name": "Dương Nguyễn",
+    "vanity": "",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 1,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643633241718
+    },
+    "lastUpdate": 1643633241719
+  }
+}
