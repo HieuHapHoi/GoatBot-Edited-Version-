@@ -13,7 +13,10 @@ this.config = {
   guide: `{prefix}{name} + thuộc tính: Đưa ra hình ảnh về Hưng.Những thuộc tính có sẵn:
   + hunqgaidit: ảnh về Hunq đang gãi đít
   + hunqlanhlung: ảnh về lạnh lùng boi Đinh Tuấn Hunq
-  + hunqhocbai: ảnh về Hunq đang học bài`
+  + hunqhocbai: ảnh về Hunq đang học bài
+  + hunqhocbai: ảnh về Hunq nghiện
+  + hunqacwy: ảnh về Hunq ắc quỷ
+  + hunqsad: ảnh về Hunq sad boy see tình`
 };
   
 module.exports = {
@@ -29,7 +32,10 @@ module.exports = {
     let list = {
       "hunqhocbai": 0,
       "hunqlanhlung": 1,
-      "hunqgaidit" : 2
+      "hunqgaidit" : 2,
+      "hunqacwy": 3,
+      "hunqsad": 4,
+      "hunqnghien": 5
     }
 
     if(!Object.keys(list).includes(args[0])){
@@ -42,7 +48,6 @@ module.exports = {
               attachment:[
                     fs.createReadStream(__dirname+'/cache/hunqhb1.png'),
                     fs.createReadStream(__dirname+'/cache/hunqhb2.png'),
-                   fs.createReadStream(__dirname+'/cache/hunqhb3.png'),
                    ],
              })
      return message.reply(msg)
@@ -65,7 +70,35 @@ module.exports = {
       })  
       return message.reply(msg);
     }
-  },
+    if(args[0] == "hunqacwy"){
+      let msg = ({
+        body: 'Ảnh về Hunq Ắc Wỷ',
+        attachment:[
+          fs.createReadStream(__dirname+'/cache/hunqacwy.png')
+        ]
+      })
+      message.reply(msg)
+    }
+    if(args[0] == "hunqsad"){
+      let msg = ({
+        body: 'Ảnh về Hunq Sad Boy See Tình',
+        attachment:[
+          fs.createReadStream(__dirname+'/cache/hunqsad.png')
+        ]
+      })
+      message.reply(msg)
+    }
+    if(args[0] == "hunqnghien"){
+      let msg = ({
+        body: 'Ảnh về Hunq nghiện',
+        attachment:[
+          fs.createReadStream(__dirname+'/cache/hunqnghien.png')
+        ]
+      })
+      message.reply(msg)
+    }
+  }
+};
   
     // else{
     //   return message.reply(args[0])
@@ -79,4 +112,3 @@ module.exports = {
   //   let player = list[args[0]]
 
   //   message.reply(player)  
-};

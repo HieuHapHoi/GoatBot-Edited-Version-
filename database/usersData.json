@@ -5,8 +5,8 @@
     "vanity": "GoogleOrangee",
     "gender": 2,
     "isFriend": true,
-    "money": 0,
-    "exp": 30,
+    "money": 100,
+    "exp": 178,
     "banned": {
       "status": false,
       "reason": null
@@ -14,7 +14,8 @@
     "data": {
       "createDate": 1643632054401
     },
-    "lastUpdate": 1643633003568
+    "lastUpdate": 1643643251073,
+    "lastTimeGetReward": "31/01/2022"
   },
   "100054857474455": {
     "id": "100054857474455",
@@ -23,7 +24,7 @@
     "gender": 1,
     "isFriend": true,
     "money": 0,
-    "exp": 6,
+    "exp": 40,
     "banned": {
       "status": false,
       "reason": null
@@ -31,7 +32,7 @@
     "data": {
       "createDate": 1643632054645
     },
-    "lastUpdate": 1643632762877
+    "lastUpdate": 1643638229667
   },
   "100032895031372": {
     "id": "100032895031372",
@@ -57,7 +58,7 @@
     "gender": 2,
     "isFriend": false,
     "money": 0,
-    "exp": 6,
+    "exp": 65,
     "banned": {
       "status": false,
       "reason": null
@@ -65,7 +66,7 @@
     "data": {
       "createDate": 1643632097959
     },
-    "lastUpdate": 1643632366696
+    "lastUpdate": 1643638140612
   },
   "100077282456612": {
     "id": "100077282456612",
@@ -106,7 +107,7 @@
     "gender": 2,
     "isFriend": true,
     "money": 0,
-    "exp": 23,
+    "exp": 107,
     "banned": {
       "status": false,
       "reason": null
@@ -114,7 +115,7 @@
     "data": {
       "createDate": 1643632221216
     },
-    "lastUpdate": 1643632513066
+    "lastUpdate": 1643638532851
   },
   "100076439106568": {
     "id": "100076439106568",
@@ -123,7 +124,7 @@
     "gender": 2,
     "isFriend": false,
     "money": 0,
-    "exp": 20,
+    "exp": 79,
     "banned": {
       "status": false,
       "reason": null
@@ -131,7 +132,7 @@
     "data": {
       "createDate": 1643632242587
     },
-    "lastUpdate": 1643632642961
+    "lastUpdate": 1643638396172
   },
   "100056639020548": {
     "id": "100056639020548",
@@ -140,7 +141,7 @@
     "gender": 2,
     "isFriend": true,
     "money": 0,
-    "exp": 30,
+    "exp": 34,
     "banned": {
       "status": false,
       "reason": null
@@ -148,7 +149,7 @@
     "data": {
       "createDate": 1643632256178
     },
-    "lastUpdate": 1643633195696
+    "lastUpdate": 1643637916987
   },
   "100050296757478": {
     "id": "100050296757478",
@@ -174,7 +175,7 @@
     "gender": 1,
     "isFriend": false,
     "money": 0,
-    "exp": 1,
+    "exp": 2,
     "banned": {
       "status": false,
       "reason": null
@@ -182,7 +183,7 @@
     "data": {
       "createDate": 1643632641278
     },
-    "lastUpdate": 1643632641280
+    "lastUpdate": 1643636011172
   },
   "100074114529798": {
     "id": "100074114529798",
@@ -191,7 +192,7 @@
     "gender": 2,
     "isFriend": true,
     "money": 0,
-    "exp": 8,
+    "exp": 11,
     "banned": {
       "status": false,
       "reason": null
@@ -199,7 +200,7 @@
     "data": {
       "createDate": 1643633183454
     },
-    "lastUpdate": 1643633236652
+    "lastUpdate": 1643635160349
   },
   "100036482330212": {
     "id": "100036482330212",
@@ -217,5 +218,56 @@
       "createDate": 1643633241718
     },
     "lastUpdate": 1643633241719
+  },
+  "100057383612061": {
+    "id": "100057383612061",
+    "name": "Khánh Nguyễn",
+    "vanity": "nguyen.yuu.1042",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 0,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643636011349
+    },
+    "lastUpdate": 1643636011349
+  },
+  "100031481407656": {
+    "id": "100031481407656",
+    "name": "Minh",
+    "vanity": "nhatminh.vu.7771",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 3,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643636112967
+    },
+    "lastUpdate": 1643638234370
+  },
+  "100055508710573": {
+    "id": "100055508710573",
+    "name": "Lap Pham",
+    "vanity": "teeff.eres",
+    "gender": 2,
+    "isFriend": false,
+    "money": 0,
+    "exp": 14,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643636853618
+    },
+    "lastUpdate": 1643638402791
   }
 }

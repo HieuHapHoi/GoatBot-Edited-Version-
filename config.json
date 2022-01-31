@@ -1,5 +1,5 @@
 {
-  "adminOnly": false,
+  "adminOnly": true,
   "adminBot": [
     "100045197073985"
   ],

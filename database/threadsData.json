@@ -33,7 +33,8 @@
         "hieu ngu"
       ],
       "customRankCard": {},
-      "welcomeAttachment": "welcome5793512867387440.mp4"
+      "welcomeAttachment": "welcome5793512867387440.mp4",
+      "leaveAttachment": "leave5793512867387440.png"
     },
     "members": {
       "100005484407822": {
@@ -58,7 +59,7 @@
         "gender": "MALE",
         "nickname": "Khạn Ngu",
         "inGroup": true,
-        "count": 500
+        "count": 575
       },
       "100027676938044": {
         "id": "100027676938044",
@@ -90,7 +91,7 @@
         "gender": "MALE",
         "nickname": "Vợ yêu của Nguyễn Tiến Đạt 💚",
         "inGroup": true,
-        "count": 94
+        "count": 97
       },
       "100032895031372": {
         "id": "100032895031372",
@@ -114,7 +115,7 @@
         "gender": "MALE",
         "nickname": "Đạt Gay",
         "inGroup": true,
-        "count": 233
+        "count": 292
       },
       "100045197073985": {
         "id": "100045197073985",
@@ -122,7 +123,7 @@
         "gender": "MALE",
         "nickname": "Hiếu Stonk",
         "inGroup": true,
-        "count": 229
+        "count": 331
       },
       "100054857474455": {
         "id": "100054857474455",
@@ -130,7 +131,7 @@
         "gender": "FEMALE",
         "nickname": "tú ngu",
         "inGroup": true,
-        "count": 197
+        "count": 231
       },
       "100056639020548": {
         "id": "100056639020548",
@@ -138,7 +139,7 @@
         "gender": "MALE",
         "nickname": "em tôm 1",
         "inGroup": true,
-        "count": 327
+        "count": 331
       },
       "100057383612061": {
         "id": "100057383612061",
@@ -202,7 +203,7 @@
         "gender": "MALE",
         "nickname": null,
         "inGroup": true,
-        "count": 289
+        "count": 292
       },
       "100074468197804": {
         "id": "100074468197804",
@@ -218,7 +219,7 @@
         "gender": "MALE",
         "nickname": "Luộc",
         "inGroup": true,
-        "count": 93
+        "count": 152
       },
       "100077282456612": {
         "id": "100077282456612",
@@ -240,10 +241,10 @@
         "name": "Lap Pham",
         "nickname": null,
         "inGroup": true,
-        "count": 59
+        "count": 73
       }
     },
-    "lastUpdate": 1643633236651
+    "lastUpdate": 1643642739240
   },
   "4834909009937137": {
     "id": "4834909009937137",
@@ -260,7 +261,9 @@
       "reason": null
     },
     "data": {
-      "createDate": 1643472496782
+      "createDate": 1643472496782,
+      "welcomeMessage": "Chào mừng con ngu {userName} đến với gúp bị thiếu Iod",
+      "leaveMessage": "Cút mẹ m đi {userName} ngu"
     },
     "members": {
       "100023260786590": {
@@ -269,7 +272,7 @@
         "gender": "MALE",
         "nickname": "cdb",
         "inGroup": true,
-        "count": 30
+        "count": 39
       },
       "100025438278538": {
         "id": "100025438278538",
@@ -277,7 +280,7 @@
         "gender": "FEMALE",
         "nickname": "thỏ ngọk channel",
         "inGroup": true,
-        "count": 4
+        "count": 5
       },
       "100029945229360": {
         "id": "100029945229360",
@@ -323,7 +326,7 @@
         "id": "100057383612061",
         "name": "Khánh Nguyễn",
         "gender": "MALE",
-        "nickname": "ck tthao",
+        "nickname": null,
         "inGroup": true,
         "count": 0
       },
@@ -352,7 +355,7 @@
         "count": 3
       }
     },
-    "lastUpdate": 1643633241718
+    "lastUpdate": 1643638489948
   },
   "4694803703949731": {
     "id": "4694803703949731",
@@ -765,7 +768,7 @@
         "gender": "MALE",
         "nickname": null,
         "inGroup": true,
-        "count": 214
+        "count": 230
       },
       "100077381063211": {
         "id": "100077381063211",
@@ -776,6 +779,115 @@
         "count": 0
       }
     },
-    "lastUpdate": 1643629371538
+    "lastUpdate": 1643643251072
+  },
+  "4361987693850312": {
+    "id": "4361987693850312",
+    "name": "Hê`",
+    "emoji": "💅🏿",
+    "prefix": null,
+    "adminIDs": [
+      "100071181161187"
+    ],
+    "avatarbox": "https://scontent.fhan14-1.fna.fbcdn.net/v/t1.15752-9/272583689_239977061627376_8161667579301840309_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=02e273&_nc_ohc=1LcGZIoBX4EAX9Ns2vi&_nc_ht=scontent.fhan14-1.fna&oh=03_AVJWCE4_SfDIPOztDHFKfNi86fN4GE24p6kMHTl6k-AbWw&oe=621CC7B2",
+    "approvalMode": false,
+    "banned": {
+      "status": false,
+      "reason": null
+    },
+    "data": {
+      "createDate": 1643638538575
+    },
+    "members": {
+      "100026739405082": {
+        "id": "100026739405082",
+        "name": "Mai Hà",
+        "gender": "FEMALE",
+        "nickname": "Tomorrow River",
+        "inGroup": true,
+        "count": 0
+      },
+      "100036845415149": {
+        "id": "100036845415149",
+        "name": "Ber",
+        "gender": "FEMALE",
+        "nickname": "Tổng thống kiêm băng bịt mắt của Gojo Satoru",
+        "inGroup": true,
+        "count": 0
+      },
+      "100040485893172": {
+        "id": "100040485893172",
+        "name": "Chi Thùy",
+        "gender": "FEMALE",
+        "nickname": "Cheese",
+        "inGroup": true,
+        "count": 0
+      },
+      "100045197073985": {
+        "id": "100045197073985",
+        "name": "Hiếu Gia",
+        "gender": "MALE",
+        "nickname": "Đỗ Gia Hìu",
+        "inGroup": true,
+        "count": 20
+      },
+      "100054329596599": {
+        "id": "100054329596599",
+        "name": "Mlem Mlem",
+        "gender": "MALE",
+        "nickname": "Dui cì tóc đã xoăn",
+        "inGroup": true,
+        "count": 0
+      },
+      "100055094347546": {
+        "id": "100055094347546",
+        "name": "Trâm Panda",
+        "gender": "FEMALE",
+        "nickname": "Trưm j cx đừng set bờ li",
+        "inGroup": true,
+        "count": 0
+      },
+      "100055547020004": {
+        "id": "100055547020004",
+        "name": "Hoàngg Quyếtt",
+        "gender": "MALE",
+        "nickname": "Khô Quýt Lá Chanh",
+        "inGroup": true,
+        "count": 0
+      },
+      "100056897080914": {
+        "id": "100056897080914",
+        "name": "Thảo Nguyênn",
+        "gender": "FEMALE",
+        "nickname": "Nguyn",
+        "inGroup": true,
+        "count": 0
+      },
+      "100068634763532": {
+        "id": "100068634763532",
+        "name": "Nguyễn Thị Diệu Linh",
+        "gender": "FEMALE",
+        "nickname": "Link",
+        "inGroup": true,
+        "count": 0
+      },
+      "100071181161187": {
+        "id": "100071181161187",
+        "name": "Mai Anh Lê",
+        "gender": "FEMALE",
+        "nickname": "Manh có một biệt danh rất dài ah",
+        "inGroup": true,
+        "count": 0
+      },
+      "100077381063211": {
+        "id": "100077381063211",
+        "name": "Emilia Kanji",
+        "gender": "MALE",
+        "nickname": null,
+        "inGroup": true,
+        "count": 0
+      }
+    },
+    "lastUpdate": 1643643195357
   }
 }
